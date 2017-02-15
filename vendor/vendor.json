@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UuaYAMgL4LFLLLqr7i4DpeLu2Fg=",
+			"path": "github.com/siddontang/goredis",
+			"revision": "760763f78400635ed7b9b115511b8ed06035e908",
+			"revisionTime": "2015-03-24T03:50:39Z"
+		}
+	],
+	"rootPath": "github.com/lunny/redis2ledis"
+}
